@@ -35,8 +35,7 @@ public class Shop {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        Locale locale = Locale.UK;
-        ProductManager pm = new ProductManager(locale);
+        ProductManager pm = new ProductManager("ru-RU");
         // TODO code application logic here
         pm.createProduct(101, "Tea", BigDecimal.valueOf(1.99), Rating.NOT_RATED);
         pm.printProductReport(101);
