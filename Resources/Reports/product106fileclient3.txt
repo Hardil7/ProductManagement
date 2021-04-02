@@ -1,0 +1,6 @@
+Chocolate, Price: $2.50, Rating: ★★☆☆☆, Best Before: 5/26/21
+Review: ★★★★☆	Yet another review
+Review: ★★★☆☆	Better than cookie
+Review: ★★☆☆☆	Too Sweet
+Review: ★★☆☆☆	Too bitter
+Review: ★☆☆☆☆	I don't get it!

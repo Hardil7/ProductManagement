@@ -1,4 +1,5 @@
-Cake, Price: £3.99, Rating: ☆☆☆☆☆, Best Before: 26/05/2021
+Cake, Price: $3.99, Rating: ★★★★★, Best Before: 5/26/21
 Review: ★★★★★	Very nice cake
 Review: ★★★★★	Cake's perfect
 Review: ★★★★☆	It's very good, but i expected more chocolate
+Review: ★★★★☆	Yet another review

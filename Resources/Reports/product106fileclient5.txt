@@ -1,4 +1,5 @@
-Chocolate, Price: £2.50, Rating: ☆☆☆☆☆, Best Before: 26/05/2021
+Chocolate, Price: ￥2.50, Rating: ★★☆☆☆, Best Before: 2021/5/26
+Review: ★★★★☆	Yet another review
 Review: ★★★☆☆	Better than cookie
 Review: ★★☆☆☆	Too Sweet
 Review: ★★☆☆☆	Too bitter
